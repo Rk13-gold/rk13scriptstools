@@ -45,8 +45,10 @@ Package a instalar
 * vim
 * aria2
 
-ACTUALMENTE EN UPDATE!!! 
-un scrip para instalar tus paqutes de forma facil y sencilla 
-siguenos en facebook 
+ACTUALMENTE EN UPDATE
+
+Rk13scripV01un scrip para instalar tus paquetes de forma facil segura y sencilla... 
+
+siguenos en facebook
 https://www.facebook.com/Termuxcode-110254667788727/
 
