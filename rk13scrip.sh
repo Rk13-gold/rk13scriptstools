@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #scrip v01
 
@@ -32,55 +31,55 @@ echo "               INSTALACION INICIADA PACK" | lolcat
 cd ~
 #paquetes
 figlet curl | lolcat
-pkg i curl -y
+apt-get i curl -y
 sleep 0.5
 figlet python | lolcat
-pkg i python -y
+apt-get i python -y
 sleep 0.5
 figlet python2 | lolcat
-pkg i python2 -y
+apt-get i python2 -y
 sleep 0.5
 figlet openssh | lolcat
-pkg i openssh -y
+apt-get i openssh -y
 sleep 0.5
 figlet wget | lolcat
-pkg i wget -y
+apt-get i wget -y
 sleep 0.5
 figlet perl | lolcat
-pkg i perl -y
+apt-get i perl -y
 sleep 0.5
 figlet ruby | lolcat
-pkg i ruby -y
+apt-get i ruby -y
 sleep 0.5
 figlet php | lolcat
-pkg i php  -y
+apt-get i php  -y
 sleep 0.5
 figlet git | lolcat
-pkg i git -y
+apt-get i git -y
 sleep 0.5
 figlet p7zip | lolcat
-pkg i p7zip -y
+apt-get i p7zip -y
 sleep 0.5
 figlet figlet | lolcat
-pkg i figlet -y
+apt-get i figlet -y
 sleep 0 5
 figlet bash-cplm | lolcat
-pkg i bash-completion -y
+apt-get i bash-completion -y
 sleep 0.5
 figlet nano | lolcat
-pkg i nano -y
+apt-get i nano -y
 sleep 0.5
 figlet nmap | lolcat
-pkg i nmap -y
+apt-get i nmap -y
 sleep 0.5
 figlet nodejs | lolcat
-pkg i nodejs -y
+apt-get i nodejs -y
 sleep 0.5
 figlet vim | lolcat
-pkg i vim -y
+apt-get i vim -y
 sleep 0.5
 figlet aria2 | lolcat
-pkg i aria2 -y
+apt-get i aria2 -y
 sleep 1
 echo "             FIN DE INSTALACION DE PAQUETES" | lolcat
 sleep 2
@@ -90,4 +89,4 @@ figlet Rk13scripV01 | lolcat
 figlet FIN DEL | lolcat
 figlet SCRIPTS| lolcat
 echo "-------------------------------------------------------" | lolcat
-echo "SCRIP INSTALADO SU TERMUX ESTA ACTUALIZADO" | lolcat
+echo "SCRIP INSTALADO SU TERMUx ESTA ACTUALIZADO" | lolcat 
