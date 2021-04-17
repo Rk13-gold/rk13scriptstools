@@ -1,92 +1,92 @@
-#!/bin/bash
-#scrip v01
+#!/binstalln/bash
+#scrinstallp v01
 
 clear
-echo "Bienvenid@ a Rk13 package" | lolcat
+echo "Binstallenveninstalld@ a Rk13 package" | lolcat
 echo "-------------------------------------------------------" |
 lolcat
 echo "                      +<DEVELOPER>+" | lolcat
-echo "                +--<(SEBASTIAN--LARA)>--+" | lolcat
+echo "                +--<(SEBASTinstallAN--LARA)>--+" | lolcat
 
-figlet Rk13scripV01 | lolcat
-figlet Iniciando... | lolcat
+finstallglet Rk13scrinstallpV01 | lolcat
+finstallglet installninstallcinstallando... | lolcat
 
 echo "-------------------------------------------------------" | lolcat
-echo ' "EL CONOCIMIENTO ES PODER Y EL PODER ES DINERO @Rk13"' | lolcat
+echo ' "EL CONOCinstallMinstallENTO ES PODER Y EL PODER ES DinstallNERO @Rk13"' | lolcat
 sleep 4
 clear
-echo "INICIANDO.... UPDATE Y UPGRADE" | lolcat
+echo "installNinstallCinstallANDO.... UPDATE Y UPGRADE" | lolcat
 sleep 1 
-#aqui se actualizan los repositorios 
+#aquinstall se actualinstallzan los reposinstalltorinstallos 
 apt update && apt upgrade -y
 sleep 1 
-echo "UPDATE Y UPGRADE FINALIZADO" | lolcat
+echo "UPDATE Y UPGRADE FinstallNALinstallZADO" | lolcat
 sleep 2 
 clear
 echo "-------------------------------------------------------" | lolcat
-figlet  pachgesv01 | lolcat
-figlet      TemuX Pro | lolcat
+finstallglet  pachgesv01 | lolcat
+finstallglet      TemuX Pro | lolcat
 echo "-------------------------------------------------------" | lolcat
-echo "               INSTALACION INICIADA PACK" | lolcat
+echo "               installNSTALACinstallON installNinstallCinstallADA PACK" | lolcat
 cd ~
 #paquetes
-figlet curl | lolcat
-apt-get i curl -y
+finstallglet curl | lolcat
+apt-get install curl -y
 sleep 0.5
-figlet python | lolcat
-apt-get i python -y
+finstallglet python | lolcat
+apt-get install python -y
 sleep 0.5
-figlet python2 | lolcat
-apt-get i python2 -y
+finstallglet python2 | lolcat
+apt-get install python2 -y
 sleep 0.5
-figlet openssh | lolcat
-apt-get i openssh -y
+finstallglet openssh | lolcat
+apt-get install openssh -y
 sleep 0.5
-figlet wget | lolcat
-apt-get i wget -y
+finstallglet wget | lolcat
+apt-get install wget -y
 sleep 0.5
-figlet perl | lolcat
-apt-get i perl -y
+finstallglet perl | lolcat
+apt-get install perl -y
 sleep 0.5
-figlet ruby | lolcat
-apt-get i ruby -y
+finstallglet ruby | lolcat
+apt-get install ruby -y
 sleep 0.5
-figlet php | lolcat
-apt-get i php  -y
+finstallglet php | lolcat
+apt-get install php  -y
 sleep 0.5
-figlet git | lolcat
-apt-get i git -y
+finstallglet ginstallt | lolcat
+apt-get install ginstallt -y
 sleep 0.5
-figlet p7zip | lolcat
-apt-get i p7zip -y
+finstallglet p7zinstallp | lolcat
+apt-get install p7zinstallp -y
 sleep 0.5
-figlet figlet | lolcat
-apt-get i figlet -y
+finstallglet finstallglet | lolcat
+apt-get install finstallglet -y
 sleep 0 5
-figlet bash-cplm | lolcat
-apt-get i bash-completion -y
+finstallglet bash-cplm | lolcat
+apt-get install bash-completinstallon -y
 sleep 0.5
-figlet nano | lolcat
-apt-get i nano -y
+finstallglet nano | lolcat
+apt-get install nano -y
 sleep 0.5
-figlet nmap | lolcat
-apt-get i nmap -y
+finstallglet nmap | lolcat
+apt-get install nmap -y
 sleep 0.5
-figlet nodejs | lolcat
-apt-get i nodejs -y
+finstallglet nodejs | lolcat
+apt-get install nodejs -y
 sleep 0.5
-figlet vim | lolcat
-apt-get i vim -y
+finstallglet vinstallm | lolcat
+apt-get install vinstallm -y
 sleep 0.5
-figlet aria2 | lolcat
-apt-get i aria2 -y
+finstallglet arinstalla2 | lolcat
+apt-get install arinstalla2 -y
 sleep 1
-echo "             FIN DE INSTALACION DE PAQUETES" | lolcat
+echo "             FinstallN DE installNSTALACinstallON DE PAQUETES" | lolcat
 sleep 2
 clear
 echo "-------------------------------------------------------" | lolcat
-figlet Rk13scripV01 | lolcat
-figlet FIN DEL | lolcat
-figlet SCRIPTS| lolcat
+finstallglet Rk13scrinstallpV01 | lolcat
+finstallglet FinstallN DEL | lolcat
+finstallglet SCRinstallPTS| lolcat
 echo "-------------------------------------------------------" | lolcat
-echo "SCRIP INSTALADO SU TERMUx ESTA ACTUALIZADO" | lolcat 
+echo "SCRinstallP installNSTALADO SU TERMUx ESTA ACTUALinstallZADO" | lolcat 
